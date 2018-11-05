@@ -4,12 +4,13 @@
 	"keywords": ["yii2", "extension", "eauth", "openid", "oauth", "authentication"],
 	"homepage": "https://github.com/Nodge/yii2-eauth",
 	"type": "yii2-extension",
+	"version": "dev-master",
 	"license": "New BSD License",
 	"authors": [
 		{
-			"name": "Maxim Zemskov",
-			"email": "nodge@yandex.ru",
-			"homepage": "http://nodge.ru/"
+			"name": "Dmitry Ivonin",
+			"email": "dmitr-ivon@ya.ru",
+			"homepage": "https://dmolim.xyz/"
 		}
 	],
 	"support": {
